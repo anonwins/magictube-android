@@ -14,3 +14,5 @@ The song will soon be playing. It will also be saved in your Music folder.
 <b><i>Why choose magictube?</i></b>
 
 Save bandwidth, time, money, energy, memory. Think smart
+
+[Download APK](https://github.com/anonwins/magictube-android/releases/latest)
