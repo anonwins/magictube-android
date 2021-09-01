@@ -15,4 +15,4 @@ The song will soon be playing. It will also be saved in your Music folder.
 
 Save bandwidth, time, money, energy, memory. Think smart
 
-[Download APK](https://github.com/anonwins/magictube-android/releases/latest)
+### [Download APK](https://github.com/anonwins/magictube-android/releases/latest)
