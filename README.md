@@ -1,5 +1,5 @@
 
-# magictube-android
+# magictube
 
 A **minimal** app that **automatically** searches, downloads and plays songs.
 
