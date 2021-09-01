@@ -2,6 +2,8 @@
 
 A **minimal** app that **automatically** searches, downloads and plays songs.
 
+![magictube-android-demo](https://user-images.githubusercontent.com/26126049/131757003-4b6352ce-8c06-443b-9064-23ecf84c4217.gif)
+
 ### How does it work?
 
 All you have to do is type the song you want to listen to.
