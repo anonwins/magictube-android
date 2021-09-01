@@ -12,4 +12,4 @@ The song will soon be playing. It will also be saved in your Music folder.
 
 ### Why choose magictube?
 
-Save bandwidth, time, energy, memory. Think smart.
+Save bandwidth, time, money, energy, memory. Think smart.
