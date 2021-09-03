@@ -11,7 +11,7 @@ All you have to do is type the song you want to listen to.
 
 The song will soon be playing. It will also be saved in your Music folder.
 
-(magictube uses yt-dlp to fetch the songs from a popular website)
+*(magictube uses yt-dlp to fetch the songs from a popular website)*
 
 ### *Why choose magictube?*
 
