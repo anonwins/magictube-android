@@ -1,7 +1,7 @@
 
 # magictube-android
 
-A **minimal** app that **automatically** searches, downloads and plays songs.
+A **minimal** app that **automatically** searches, downloads, saves and plays songs.
 
 ![magictube-3 3-demo](https://user-images.githubusercontent.com/26126049/132048639-4cce478e-2aef-4f21-80a5-9b97d370f07a.gif)
 
@@ -15,7 +15,7 @@ The song will soon be playing. It will also be saved in your Music folder.
 
 ### *Why choose magictube?*
 
-Save bandwidth, time, money, energy, memory. *Think smart*
+Save bandwidth, time, energy, memory, money, etc. etc.
 
 ### [Download APK](https://github.com/anonwins/magictube-android/releases/latest)
 
