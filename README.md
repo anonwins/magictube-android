@@ -3,7 +3,7 @@
 
 A **minimal** app that **automatically** searches, downloads, saves and plays songs.
 
-![magictube-3 3-demo](https://user-images.githubusercontent.com/26126049/132048639-4cce478e-2aef-4f21-80a5-9b97d370f07a.gif)
+https://user-images.githubusercontent.com/26126049/133237579-ef501853-9113-49f0-b6c1-6e43a1b8b327.mp4
 
 ### *How does it work?*
 
