@@ -3,6 +3,9 @@
 
 A **minimal** app that **automatically** searches, downloads, saves and plays songs.
 
+
+# THIS DOESN'T WORK ANY MORE BECAUSE I DON'T HOST THE SERVER FILES. MAYBE IN THE FUTURE
+
 ### *How does it work?*
 
 All you have to do is type the song you want to listen to.
